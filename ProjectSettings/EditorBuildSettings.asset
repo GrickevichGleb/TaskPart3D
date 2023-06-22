@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LevelSelector_Scene.unity
+    guid: 78e7f3ab3232f47eeb66bdf640ce3e7d
+  - enabled: 1
+    path: Assets/Scenes/SpinningCoin_Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CarDriving_Scene.unity
+    guid: d8064541f2d67499cb0061228e9763bb
+  - enabled: 1
+    path: Assets/Scenes/3dChar_Scene.unity
+    guid: dd933fbf5b70342ff89cf99d773443fa
+  m_configObjects: {}
